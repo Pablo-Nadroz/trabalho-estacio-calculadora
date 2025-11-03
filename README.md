@@ -54,18 +54,29 @@ Esta seção contém a lógica de interação com o usuário:
     * Chama a função `calculadora` e imprime o resultado.
 4.  Ao final de cada cálculo, pergunta ao usuário se ele deseja **continuar** ou **encerrar** o programa.
 
-## 🛠️ Como Executar
+## Exemplo de Interação
 
-### Pré-requisitos
+Bem-vindo(a) à Calculadora Nadroz
+====================================
 
-Você precisa ter o **Python** instalado em sua máquina.
+--- Novo Cálculo ---
+Digite o PRIMEIRO número: 10
+Digite o SEGUNDO número: 2
+Digite a OPERAÇÃO (+, -, *, / ou o nome dela): divisao
 
-### Execução
+Resultado da operação: 5.0
+------------------------------------
+Deseja continuar? Digite [S] para Sim ou [N] para Não: s
+------------------------------------
 
-1.  Salve o código em um arquivo chamado, por exemplo, `calculadora.py`.
-2.  Abra o terminal ou prompt de comando.
-3.  Navegue até o diretório onde você salvou o arquivo.
-4.  Execute o script com o seguinte comando:
+--- Novo Cálculo ---
+Digite o PRIMEIRO número: 5
+Digite o SEGUNDO número: 0
+Digite a OPERAÇÃO (+, -, *, / ou o nome dela): /
 
-```bash
-python calculadora.py
+Resultado da operação: Não foi possível realizar a divisão por 0
+------------------------------------
+Deseja continuar? Digite [S] para Sim ou [N] para Não: n
+------------------------------------
+
+👋 Programa encerrado. Obrigado por usar a Calculadora
