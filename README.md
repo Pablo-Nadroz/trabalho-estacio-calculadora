@@ -56,27 +56,4 @@ Esta seção contém a lógica de interação com o usuário:
 
 ## Exemplo de Interação
 
-Bem-vindo(a) à Calculadora Nadroz
-====================================
-
---- Novo Cálculo ---
-Digite o PRIMEIRO número: 10
-Digite o SEGUNDO número: 2
-Digite a OPERAÇÃO (+, -, *, / ou o nome dela): divisao
-
-Resultado da operação: 5.0
-------------------------------------
-Deseja continuar? Digite [S] para Sim ou [N] para Não: s
-------------------------------------
-
---- Novo Cálculo ---
-Digite o PRIMEIRO número: 5
-Digite o SEGUNDO número: 0
-Digite a OPERAÇÃO (+, -, *, / ou o nome dela): /
-
-Resultado da operação: Não foi possível realizar a divisão por 0
-------------------------------------
-Deseja continuar? Digite [S] para Sim ou [N] para Não: n
-------------------------------------
-
-👋 Programa encerrado. Obrigado por usar a Calculadora
+<img width="556" height="513" alt="image" src="https://github.com/user-attachments/assets/3cbfa651-a1fc-47c4-8f9e-3f4638e52bf6" />
